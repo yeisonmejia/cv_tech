@@ -7,186 +7,186 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Yeison Mejia
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: ImagenPerfilVeritranface.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: yeisonmejia@gmail.com
+    phone: (+57) 321 893 26 23
+    website: yeisonmejia.tech #do not add http://
+    linkedin: yeisonmejia-tech
+    #xing: alandoe
+    #github: sharu725
+    telegram: ymejia_q # add your nickname without '@' sign
+    gitlab: yeisonmejia
+    bitbucket: yeisonmejia
+    twitter: '@yeison_q'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #ßpdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: Español
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Ingles
+        level: Intermedio
 
     interests:
-      - item: Climbing
+      - item: Tecnologia en general
         link:
 
-      - item: Snowboarding
+      - item: Motocicletas
         link:
 
-      - item: Cooking
+      - item: Domotica
+        link:
+      
+      - item: Drones
         link:
 
 career-profile:
-    title: Career Profile
+    title: Summary
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      LLevo más de 17 años en el desarrollo de software, mis primeros pinos los hice en el lenguaje logo en pantallas blanco y negro cuando tenía 11 años. La web la conocí JavaScript de la mano de NetScape y me enamore del lenguaje y sus posibilidades. Me gustan los retos tanto funcionales como técnicos, me gusta leer y consumir eventos de tecnología en diferido, aprender temas nuevos de tecnología es una de mis pasiones. Mi abuela siempre me decía que un trabajo hecho con calidad es la mejor carta de presentación y eso lo he adoptado como filosofía de vida.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Ingeniería de Organización Industrial 
+      university: Universidad Politécnica de Valencia - España
+      time: 2013
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Estudios de procesos productivos, logística y calidad. En esta carrera pude trabajar con algoritmos matemáticos para resolver problemas complejos de optimización de rutas y balanceo de lineas de producción. También tuve la oportunidad de trabajar con sistemas RPM para la creación de planes productivos y con herramientas para hacer seguimiento a la calidad de la producción, entre otros.
+          - Algoritmos matemáticos
+          - Algoritmos de optimización de problemas de rutas y líneas de producción
+          - Planificación de líneas de producción
+    - degree: Ingeniería Técnica Telecomunicaciones especialidad Telemática 
+      university: Universidad Politécnica de Valencia - España
+      time: 2010
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Estudios en administracion, planificacion y construccion de redes y 
+        servicios telemáticos con enfacis en CISCO CCNA, CCNA-W y CCNP.
+          - CCNA
+          - CCNA-W
+          - CCNP
+    - degree: Especialista en Integración de sistemas y redes corporativas 
+      university: Universidad Politécnica de Valencia - España
+      time: 2010
+      details: |
+        Estudios en administración, planificación y construcción de redes y servicios telemáticos. Dominio y prácticas reales en laboratorios de la universidad:
+          - CCNA Security
+          - CCNP Routing
+          - CCNP Switching
+          - CCNP Troubleshooting and Maintainning
+    - degree: Ingeniera Computación y Sistemas (Siete semestres)
+      university: Universidad Tecnológica de Pereira - Colombia
+      time: 2005 - 2018
+      details: |
+        Estudios sin concluir en Algoritmia, teoría general de sistemas construcción de softaware.
+    - degree: Técnico Computación  y Sistemas
+      university: Instituto Técnico Superior de Pereira - Colombia
+      time: 1997 - 2003
+      details: |
+        Desarrollo de software en TurboPascal y TurboC. Construccion de
+        aplicativos web usando JavaScript y Html.
+          - JavaScript
+          - HTML
+          - Pascal
+          - TurboC
 experiences:
     - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      time: 2017 - Present
+      company: Veritran, Colombia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Liderar el equipo que diseña, construye y mantiene el canal web de una solución lowcode líder en la region. A parte de liderar este equipo apoyo otros proyectos con dudas técnicas sobre desarrollo web y valindaciones de nueva funcionalidad. Al momento de codificar lo hago utilizando técnicas como TDD, SOLID, Clean Code y Clean Architecture. Los lenguajes, herramientas, frameworks y librerías que uso en mi día a día son:
+          - Java, SpringBoot, Maven, JavaScript, Node, WebPack, Rollup, Jest, Junit5, Mockito, Testing Library, Git, burpsuit, gitlab, gitlabCI, servidores linux, jmeter
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: 2016 - 2017
+      company: Indra, Colombia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
+        Ampliar y mantener el sistema de facturación de energía para empresas en uno de los clientes estratégicos de la compañía, y mantener la interfaz que conectaba el sistema automático de mediciones con el sistema de facturación. Apoyo en conocimiento técnico de web y spring boot a otros equipos y proyectos en la compañía, así como implementar sonarQube tanto en sistemas java como en sistemas .net en proyectos transversales. Dentro del equipo al que pertenecía dedique tiempo al mentoring de 3 desarrolladores jr.
+    - role: Semi Senior Developer
+      time: 2015 - 2016
+      company: Datacenter, Colombia
+      details: |
+        Desarrollar funcionalidades para el sistema de apuestas usado en 3 departamentos en colombia. Los desarrollos se hacían para el sistema POS con tecnología JavaScript y jQuery. Y para BackOffice usando Java, JSF, SpringBoot y PL-SQL de oracle en una arquiectura por capas. Desarrollo de un sistema de créditos y cartera para un cliente estratégico de la compañía usando las mismas tecnilogias ya mencionadas.
+    - role: Semi Senior Developer
       time: 2012 - 2014
-      company: Amazon, London
+      company: Innova, España
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+        Desarrollo de un teclado para personas con discapacidad motriz severa, la primer parte de este desarrollo consta de un teclado especifico para la plataforma Android 3.0. También se desarrollaron los sistemas de apoyo para obtener y calcular la estadística necesaria para calibrar los teclados. El desarrollo también incluyo la programación del dispositivo arduino que servia de interfaz física con el teclado de android y con el teclado desarrollado para PC.
+    - role: Semi Senior Developer
+      time: 2011 - 2012
+      company: Mensacom, España
+      details: |
+        Diseñar y desarrollar un sistema que permitiera al area operativa de la empresa tener un control en tiempo real de las unidades(mensajeros) desplegadas en la ciudad. Ademas de la geolocalizacion el sistema permite informar las tareas pendientes y reportar posibles inconvenientes en las entregas. El sistema se desarrollo para Android 2.3 con una api escrita en Java.
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+#
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        link: "#"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#      - title: A syntax directed compiler for Algol 60
+#        link: "#"
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
+#
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Java
+        level: 90%
+
+      - name: Javascript
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Spring y SpringBoot
         level: 95%
 
-      - name: Ruby on Rails
+      - name: GitLab CI
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Docker for Developer
+        level: 82%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
